@@ -1,0 +1,9 @@
+{
+    "mongoUri": "mongodb+srv://rgarciae:Madrid%2313@clustertfg.etpyj.mongodb.net/",
+    "sourceDb": "gesflo_bd",
+    "targetDb": "test_saul_migracion",
+    "sourceCollection": "usuarios",
+    "targetCollection": "usuarios",
+    "migrationErrorLog": "./src/migration_error.json",
+    "syncErrorLog": "./src/sync_error.json"
+}
